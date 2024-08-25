@@ -1,0 +1,18 @@
+# Unity
+/Library/
+/Temp/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+/Auto-Generated/
+*.csproj
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.tmp
+*.swp
+*.sublime-workspace
+*.sublime-project
