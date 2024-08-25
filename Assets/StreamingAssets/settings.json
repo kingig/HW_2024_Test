@@ -1,0 +1,5 @@
+{
+    "movementSpeed": 5.0,
+    "minPulpitLifetime": 2.0,
+    "maxPulpitLifetime": 5.0
+}
